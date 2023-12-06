@@ -4,7 +4,11 @@
 ```
 Это связано с техничискими нюансами, такими как DNSSEC и т.д. 
 
-В настоящее время я поддерживаю домен в зоне "keeperjerry.pro" и он всегда имеет соответствующую обратную зону! За все дальнейшие действия в доменной зоне "keeperjerry.RU" я не несу никакой ответственности. Если вы увидели сайт на данном домене - считайте он скомпроментирован!
+В настоящее время я поддерживаю домен в зоне "keeperjerry.pro" 
+и он всегда имеет соответствующую обратную зону!
+За все дальнейшие действия в доменной зоне "keeperjerry.RU" 
+я не несу никакой ответственности. 
+Если вы увидели сайт на данном домене - считайте он скомпроментирован!
 
 Данным сообщением вы были предупреждены!
 ```
@@ -13,14 +17,19 @@
 ```
 This is due to technical nuances such as DNSSEC, etc. 
 
-I currently maintain the domain in the zone "keeperjerry.pro" and it always has a corresponding reverse zone! For all further activities in the domain zone "keeperjerry.RU" I do not bear any responsibility. If you see a site on this domain - consider it compromised!
+I currently maintain the domain in the zone "keeperjerry.pro" 
+and it always has a corresponding reverse zone! 
+For all further activities in the domain zone "keeperjerry.RU" 
+I do not bear any responsibility. 
+If you see a site on this domain - consider it compromised!
 
 This message you have been warned!
 ```
 
 # Информация обо мне
 
-Я являюсь профессиональным IT архитектором, который занимается проектированием различных програмных решений с 2014 года. В большинстве случаев, мне приходится заниматься разработкой приватно, поэтому здесь вы не увидите мою активность.
+Я являюсь профессиональным IT архитектором, который занимается проектированием различных програмных решений с 2014 года. 
+В большинстве случаев, мне приходится заниматься разработкой приватно, поэтому здесь вы не увидите мою активность.
 
 Поэтому, я:
 
