@@ -4,7 +4,7 @@
 ```
 Это связано с техничискими нюансами, такими как DNSSEC и т.д. 
 
-В настоящее время я поддерживаю домен в зоне "keeperjerry.pro" 
+В настоящее время я поддерживаю домен в зоне "keeperjerry.NET" 
 и он всегда имеет соответствующую обратную зону!
 За все дальнейшие действия в доменной зоне "keeperjerry.RU" 
 я не несу никакой ответственности. 
@@ -17,7 +17,7 @@
 ```
 This is due to technical nuances such as DNSSEC, etc. 
 
-I currently maintain the domain in the zone "keeperjerry.pro" 
+I currently maintain the domain in the zone "keeperjerry.NET" 
 and it always has a corresponding reverse zone! 
 For all further activities in the domain zone "keeperjerry.RU" 
 I do not bear any responsibility. 
